@@ -1,0 +1,28 @@
+html {
+    margin: 0;
+    padding: 0;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+p span {
+    font-size: 40px;
+    color: #cdf6de;
+    border: 4px dotted #20d56b;
+    padding: 10px;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#titulo {
+    background-image: url("Img/matrix-7247571.png");
+    background-size: cover;
+}
+#titulo img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
